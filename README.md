@@ -20,7 +20,9 @@ Este fichero contiene las coordenadas de las 47 capitales de provincia peninsula
 
 La distancia entre dos puntos en un plano UTM se puede aproximar con la **distancia euclidiana**. Para dos puntos `P1(x1, y1)` y `P2(x2, y2)`, la fórmula es:
 
-\[ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \]
+$$
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
 
 ##### **1.2. Tu Tarea de Programación (Guion `preparar_datos.py`)**
 
